@@ -1,4 +1,3 @@
-Aqui vai um README criativo, ousado e com pegada profissional pra você usar no GitHub:
 
 ---
 
