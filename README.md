@@ -1,5 +1,5 @@
-#<p align="center">
-  <img src="./assets/ascihand-removebg-preview.png" alt="Banner" width="100%">
+<p align="center">
+  <img src="./ascihand-removebg-preview.png" alt="Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, Matheus Marks</h1>
@@ -17,7 +17,7 @@ Building reliable backend systems with clean architecture and scalable solutions
 
 ##  <h2 align="center">🚀 About Me </h2>
 
-<img align="right" src="./assets/astro-removebg-preview.png" width="280" alt="Developer Illustration"/>
+<img align="right" src="./astro-removebg-preview.png" width="280" alt="Developer Illustration"/>
 
 **MARKS**, Here  — a first-year Software Engineering student focused on backend development.
 
